@@ -1,1 +1,1 @@
-# -g3-architect-website
+# g3-architect-website
